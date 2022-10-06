@@ -59,11 +59,4 @@ RSpec.describe "GrammarStats method" do
         results = grammar.percentage_good
         expect(results).to eq 60
     end 
-
-
-
-
-
-
-
 end
